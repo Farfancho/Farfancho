@@ -49,11 +49,6 @@
 ## You can find me on
 
 [![GitHub](https://img.shields.io/badge/-GitHub-333?style=flat&logo=github&logoColor=white)](https://github.com/Farfancho)
-<!-- Add these when you have the links:
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](PASTE_LINKEDIN_URL_HERE)
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=gmail&logoColor=white)](mailto:PASTE_EMAIL_HERE)
--->
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alejandro-farfan-romero/)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=gmail&logoColor=white)](mailto:alejofarfanxd@gmail.com)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Farfancho&show_icons=true&theme=tokyonight&hide_border=true" alt="Alejandro's GitHub stats" />
-</p>
